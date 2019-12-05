@@ -11,3 +11,6 @@ Database The code assumes MySQL as server.
 I have written scripts to automate the database setup.
 
 Change the credentials in restapi/api.php file. Once that is done, execute restapi/db.php file.
+
+
+https://github.com/sobuz80/rest-api-with-php-and-mysql/blob/master/CRUD-Operations-What-is-REST-API-Edureka-1.png
